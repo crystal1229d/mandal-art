@@ -1,8 +1,7 @@
 import { render, screen } from '@testing-library/react'
 import { RecoilRoot } from 'recoil'
-import { MandalartPage } from '../pages/MandalartPage'
 import userEvent from '@testing-library/user-event'
-import { toBeInTheDocument } from '@testing-library/jest-dom/matchers'
+import { MandalartPage } from './index.jsx'
     
 const renderComponent = () => {
     render(

@@ -9,7 +9,7 @@ export const StyledInputWrapper = styled.div`
 
     input {
         width: 100%;
-        font-size: 0.8rem;
+        font-size: 0.7rem;
         font-weight: ${(props) => props.fontWeight || '600'};
         text-align: center;
         outline: 0;
