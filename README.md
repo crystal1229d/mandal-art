@@ -30,7 +30,6 @@
 - [`React`](https://reactjs.org/)
 - [`recoil`](https://jestjs.io/)
 - [`styled-components`](https://styled-components.com/)
-- [`MUI`](https://mui.com/)
 - [`jest`](https://jestjs.io/)
 - [`react-testing-library`](https://testing-library.com/)
 
