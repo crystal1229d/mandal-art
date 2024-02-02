@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mandal-art/static/css/main.209abf67.css",
+    "main.js": "/mandal-art/static/js/main.ca36e575.js",
+    "static/media/mandala_example_02.png": "/mandal-art/static/media/mandala_example_02.3fc976e40ca895df918a.png",
+    "index.html": "/mandal-art/index.html",
+    "main.209abf67.css.map": "/mandal-art/static/css/main.209abf67.css.map",
+    "main.ca36e575.js.map": "/mandal-art/static/js/main.ca36e575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209abf67.css",
+    "static/js/main.ca36e575.js"
+  ]
+}
